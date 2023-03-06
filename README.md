@@ -19,4 +19,7 @@ O projeto consiste em dois arquivos principais:
 
 Para executar o projeto, basta abrir o arquivo index.html em um navegador web de sua preferência.
 
+[Acesse o site aqui](https://spontaneous-pothos-cd2a4f.netlify.app/)
+
+
 ![screencapture-localhost-projetosphp-ada-2023-03-06-08_26_00](https://user-images.githubusercontent.com/116971675/223097618-d8a8746b-cfde-4c79-ad22-1ff844d4a4f4.png)
