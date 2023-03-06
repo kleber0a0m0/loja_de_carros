@@ -17,9 +17,7 @@ O projeto consiste em dois arquivos principais:
 
 ## Como executar o projeto
 
-Para executar o projeto, basta abrir o arquivo index.html em um navegador web de sua preferência. Você pode ver o resultado final da página no link abaixo:
-
-[Loja de Carros](https://codepen.io/pen/?template=QWqgQyO)
+Para executar o projeto, basta abrir o arquivo index.html em um navegador web de sua preferência.
 
 ## Como contribuir para o projeto
 
